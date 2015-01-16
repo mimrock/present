@@ -6,6 +6,7 @@ Developer @ Cheppers
 * History of Golang
 	The three of us got together and decided that we hated C++
 
+- Ken Thompson, Rob Pike, and Robert Griesemer
 - Development started in 2007
 - Open source since 2009
 - Stable since 2012
@@ -27,7 +28,7 @@ Developer @ Cheppers
 
 * What it's good for?
 - General purpose language
-- Easy development of concurrent applications (e.g network, web services)
+- Easy development of concurrent applications (e.g networking, web services)
 
 * $GOPATH
 - Your Go workspace
@@ -41,7 +42,7 @@ Developer @ Cheppers
 .play code/struct.go
 
 * Concurrency
-.play code/chan.go
+https://play.golang.org/p/hPjG85LMT6
 
 
 
