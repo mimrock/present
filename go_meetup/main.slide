@@ -33,7 +33,7 @@ Developer @ Cheppers
 * $GOPATH
 - Your Go workspace
 - Set after Go is installed
-- *All your projects belong to $GOPATH/src*
+- All your projects belong to $GOPATH/src
 
 * Hello world
 .play code/helloworld.go
