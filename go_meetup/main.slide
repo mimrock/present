@@ -38,10 +38,10 @@ Developer @ Cheppers
 .play code/helloworld.go
 
 * Structs
-.play struct.go
+.play code/struct.go
 
 * Concurrency
-.play chan.go
+.play code/chan.go
 
 
 
