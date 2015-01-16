@@ -14,6 +14,7 @@ Developer @ Cheppers
 .image images/compiling.png
 
 * Features
+- Fast compile
 - Statically typed
 - Garbage collector
 - Powerful concurrency model
@@ -35,6 +36,12 @@ Developer @ Cheppers
 
 * Hello world
 .play code/helloworld.go
+
+* Structs
+.play struct.go
+
+* Concurrency
+.play chan.go
 
 
 
