@@ -4,14 +4,17 @@ Denes Lados
 Developer @ Cheppers
 
 * Introduction to Golang
-	Denes Lados
+Denes Lados
 
 * History of Golang
-	_"The three of us got together and decided that we hated C++"_
+_"The three of us got together and decided that we hated C++"_
 
 - Development started in 2007
 - Open source since 2009
 - Stable since 2012
+
+* Features
+.image images/compiling.png
 
 * Features
 - Statically typed
