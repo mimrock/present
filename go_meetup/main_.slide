@@ -1,7 +1,6 @@
 Introduction to Golang
 
-Denes Lados
-.link http://github.com/mimrock
+Denes Lados (mimrock) Cheppers
 Cheppers
 
 * History of Golang
@@ -43,7 +42,7 @@ Cheppers
 .play code/struct.go
 
 * Concurrency
-https://play.golang.org/p/hPjG85LMT6
+.link https://play.golang.org/p/hPjG85LMT6
 
 
 
