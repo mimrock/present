@@ -36,7 +36,7 @@ Developer @ Cheppers
 - All your projects belong to $GOPATH/src
 
 * Hello world
-.play code/helloworld.go
+.play codex/helloworld.go
 
 * Structs
 .play code/struct.go
