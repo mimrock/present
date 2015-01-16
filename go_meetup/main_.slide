@@ -1,0 +1,51 @@
+Introduction to Golang
+
+Denes Lados
+.link http://github.com/mimrock
+Cheppers
+
+* History of Golang
+	The three of us got together and decided that we hated C++
+
+- Ken Thompson, Rob Pike, and Robert Griesemer
+- Development started in 2007
+- Open source since 2009
+- Stable since 2012
+
+* Features
+.image images/compiling.png
+
+* Features
+- Fast compile
+- Statically typed
+- Garbage collector
+- Powerful concurrency model
+- Easy maintaince
+
+* Concurrency vs parallelism
+- Parallelism: A condition that arises when at least two threads are executing simultaneously.
+
+- Concurrency: A condition that exists when at least two threads are making progress. A more generalized form of parallelism that can include time-slicing as a form of virtual parallelism.
+
+* What it's good for?
+- General purpose language
+- Easy development of concurrent applications (e.g networking, web services)
+
+* $GOPATH
+- Your Go workspace
+- Set after Go is installed
+- All your projects belong to $GOPATH/src
+
+* Hello world
+.play code/helloworld.go
+
+* Structs
+.play code/struct.go
+
+* Concurrency
+https://play.golang.org/p/hPjG85LMT6
+
+
+
+
+
